@@ -6,6 +6,8 @@ Estudante de Inteligência Artificial e Machine Learning na UNIASSELVI. Uso IA p
 
 **Buscador de Vagas e Estágios**: coleta diariamente, de forma automática, vagas de estágio no Rio de Janeiro via API, guarda em banco SQLite e exibe num site com filtros. Python, SQL, Streamlit e GitHub Actions. [Site](https://buscador-vagas-natacia.streamlit.app) · [Código](https://github.com/nataciaduarte/buscador-vagas)
 
+**Agente de tratamento de dados + dashboard de vendas**: agente em Python que limpa uma planilha de vendas com regras definidas num schema, gera um relatório de qualidade e alimenta um dashboard interativo. Python, pandas, openpyxl e GitHub Pages. [Dashboard](https://nataciaduarte.github.io/agente-dashboard-vendas-porsche/dashboard/) · [Código](https://github.com/nataciaduarte/agente-dashboard-vendas-porsche)
+
 ### Em desenvolvimento
 
 Python e SQL
